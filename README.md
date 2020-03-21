@@ -1,4 +1,4 @@
-# tmdb5000
+# TMDb5000
 The first part of this project is a movie recommendation system based on cosine similarity. The Jupyter notebook for this part is: https://github.com/xga0/tmdb5000/blob/master/moviePrediction.ipynb.
 
 Then, we conducted multiple algorithms to train a model to predict the box office of a movie with giving features.
